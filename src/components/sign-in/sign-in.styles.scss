@@ -1,12 +1,5 @@
 .sign-in {
+  display: flex;
+  flex-direction: column;
   padding: 20px;
-  input {
-    display: block;
-    width: 30vw;
-    padding: 5px;
-    border-radius: 5px;
-    margin-bottom: 10px;
-    height: 40px;
-  }
-
 }
